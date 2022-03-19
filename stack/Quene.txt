@@ -1,0 +1,2 @@
+Queue is liner data statur follow a preticuller order which the opration are profomed
+ order of FIFO -(first in first out)and LILO -(last in last out)

@@ -1,0 +1,17 @@
+Disadavantage of linkedlist
+1 .revers mothod not in linked list
+2 . momoryvastege high
+
+Advantage 
+insert and deletinh spiace complixit o(1) ya fast
+dyanimical momery locted
+
+Type of linked list
+1 singly linked list # travle only forward
+2 double linked list  # travle forward and backword
+
+array storagecontinues memory location
+but linked list not
+array allow random asses
+but linked list not allowed
+not case firend linked list

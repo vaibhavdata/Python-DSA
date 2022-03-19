@@ -1,0 +1,4 @@
+stack is a linear data statuer thas follow a particullar order which oprated are basically follow
+LIFO -(last in first out)
+and 
+FILO - (first in last out )

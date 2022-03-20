@@ -9,4 +9,4 @@ root.left = Tree(20)
 root.right =Tree(30)
 root.left.left = Tree(40)
 root.left.left.left =Tree
-print(root())
+print(root)
